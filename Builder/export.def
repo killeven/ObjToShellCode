@@ -1,0 +1,8 @@
+LIBRARY Builder
+EXPORTS
+	CreateInstance
+	DeleteInstance
+	AddObj
+	AddModule
+	Build
+	GetFuncList
